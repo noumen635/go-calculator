@@ -6,3 +6,4 @@ Create a simple calculator using go programming language
 ## Technologies Used
 - Go 
 - Fyne (Go UI Framework)
+- GoValuate
